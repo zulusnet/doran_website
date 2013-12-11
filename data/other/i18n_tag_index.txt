@@ -1,0 +1,11 @@
+_cre_2013 company contact gallery index index_copy index_en index_ru news-20131204-1153 news-20131209-1449 offer
+_cre_201312 company contact gallery index index_copy index_en index_ru news-20131204-1153 news-20131209-1449 offer
+_parent_ company contact gallery index index_copy index_en index_ru offer
+_parent_index news-20131204-1153 news-20131209-1449
+_pub_2013 company contact gallery index index_copy index_en index_ru news-20131204-1153 news-20131209-1449 offer
+_pub_201312 company contact gallery index index_copy index_en index_ru news-20131204-1153 news-20131209-1449 offer
+_special_news news-20131204-1153 news-20131209-1449
+content_management_system index index_copy
+easy index index_copy
+getsimple index index_copy
+news news-20131204-1153 news-20131209-1449
