@@ -1,4 +1,1 @@
-doran_website
-=============
-
-Refreshed new DORAN Group website
+Jest to repozytorium projektu strony internetowej przygotowywanej dla DORAN Group.
