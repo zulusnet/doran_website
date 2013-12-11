@@ -1,0 +1,914 @@
+.sc-label {
+    width: 100%;
+    display: inline-block;
+}
+
+.sc-text {
+    width: 100%;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.sc-select {
+    width: 100% !important;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.sc-text-area {
+    width: 100%;
+    min-height: 200px;
+    resize: none;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.sc-submit {
+    width: 23%;
+    float: right;
+    padding:5px 25px;
+    background:#35b128;
+    border:1px solid #33842a;
+    -moz-border-radius: 5x;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 4px rgba(0,0,0, .75);
+    -moz-box-shadow: 0 0 4px rgba(0,0,0, .75);
+    box-shadow: 0 0 4px rgba(0,0,0, .75);
+    color:#f3f3f3;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.sc-submit:hover, .sc-submit:focus{
+    background-color :#399630;
+    -webkit-box-shadow: 0 0 1px rgba(0,0,0, .75);
+    -moz-box-shadow: 0 0 1px rgba(0,0,0, .75);
+    box-shadow: 0 0 1px rgba(0,0,0, .75);
+}
+
+.sc-error {
+    float: left;
+    color: #FF0000;
+}
+
+.sc-success {
+    float: left;
+    color: #35b128; /*#B0DE78;*/
+}
+
+.error {
+    color: #FF0000;
+}
+
+.sc-clear {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.sc-recaptcha-widget>br {
+    display: none;
+}
+
+.sc-recaptcha-reload {
+    width: 100%;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sc-opencaptcha-reload {
+    width: 100%;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sc-recaptcha-audio {
+    width: 100%;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sc-recaptcha-image {
+    width: 100%;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sc-opencaptcha-image {
+    width: 100%;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sc-recaptcha-img>span {
+    width: 100%;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sc-recaptcha-img>span>a {
+    text-decoration: none;
+}
+
+.sc-recaptcha-img>img {
+    width: 70%;
+    height: 57px;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sc-opencaptcha-img>img {
+    width: 42%;
+    height: auto;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sc-recaptcha-frame {
+    width: 100%;
+    min-height: 300px;
+    height: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    overflow-x: hidden;
+}
+
+.sc-recaptcha-frame textarea {
+    border: none;
+}
+
+.sc-recaptcha-text-area {
+    width: 100%;
+    min-height: 100px;
+    resize: none;
+    border: 1px solid #AAAAAA;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#toolbar {
+    width: 100%;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sc-bold {
+    background: url('../images/bold.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-italic {
+    background: url('../images/italic.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-link {
+    background: url('../images/link.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-image {
+    background: url('../images/image.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-smileys {
+    background: url('../images/smileys/smiley.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.sc-insert-h1 {
+    background: url('../images/h1.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-h2 {
+    background: url('../images/h2.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-ul {
+    background: url('../images/ul.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-ol {
+    background: url('../images/ol.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-red {
+    background: url('../images/red.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-green {
+    background: url('../images/green.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-insert-blue {
+    background: url('../images/blue.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-undo {
+    background: url('../images/undo.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-redo {
+    background: url('../images/redo.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-switch-to-source {
+    background: url('../images/switch.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+}
+
+.sc-ok {
+    background: url('../images/ok.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.sc-cancel {
+    background: url('../images/cancel.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.sc-bold:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-italic:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-link:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-image:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-h1:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-h2:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-ul:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-ol:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-red:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-green:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-insert-blue:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-undo:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-redo:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-switch-to-source:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-ok:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-cancel:hover {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.wysihtml5-action-active {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.wysihtml5-command-dialog-opened {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.wysihtml5-command-active {
+    background-color: #f0f0f0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.sc-toolbar-container {
+    width: 100%;
+    margin:0;
+    padding:0;
+}
+
+.sc-toolbar-container li {
+    float:left;
+    list-style-type: none;
+    display:inline;
+}
+
+.sc-smiley-container {
+    float: left;
+}
+
+.sc-smiley-container ul {
+    width: 100%;
+    margin:0;
+    padding:0;
+}
+
+.sc-smiley-container ul li {
+    display: inline;
+    float: left;
+    list-style-type: none;
+}
+
+
+.sc-smiley-1 {
+    background: url('../images/smileys/smiley.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-2 {
+    background: url('../images/smileys/smiley-grin.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-3 {
+    background: url('../images/smileys/smiley-lol.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-4 {
+    background: url('../images/smileys/smiley-wink.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-5 {
+    background: url('../images/smileys/smiley-cool.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-6 {
+    background: url('../images/smileys/smiley-sad.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-7 {
+    background: url('../images/smileys/smiley-cry.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-8 {
+    background: url('../images/smileys/smiley-confuse.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-9 {
+    background: url('../images/smileys/smiley-eek.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-10 {
+    background: url('../images/smileys/smiley-mad.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-11 {
+    background: url('../images/smileys/smiley-grumpy.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-12 {
+    background: url('../images/smileys/smiley-shock.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-13 {
+    background: url('../images/smileys/smiley-squint.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-14 {
+    background: url('../images/smileys/smiley-roll.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-15 {
+    background: url('../images/smileys/smiley-roll-sweat.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-16 {
+    background: url('../images/smileys/smiley-neutral.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-17 {
+    background: url('../images/smileys/smiley-fat.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-18 {
+    background: url('../images/smileys/smiley-slim.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-19 {
+    background: url('../images/smileys/smiley-kiss.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-20{
+    background: url('../images/smileys/smiley-red.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-21 {
+    background: url('../images/smileys/smiley-razz.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-22 {
+    background: url('../images/smileys/smiley-curly.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-23 {
+    background: url('../images/smileys/smiley-draw.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-24 {
+    background: url('../images/smileys/smiley-money.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-25 {
+    background: url('../images/smileys/smiley-sweat.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-26 {
+    background: url('../images/smileys/smiley-surprise.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-27 {
+    background: url('../images/smileys/smiley-mr-green.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-28 {
+    background: url('../images/smileys/smiley-kitty.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-29 {
+    background: url('../images/smileys/smiley-glass.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-30 {
+    background: url('../images/smileys/smiley-nerd.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-31 {
+    background: url('../images/smileys/smiley-sleep.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-32 {
+    background: url('../images/smileys/smiley-yell.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-33 {
+    background: url('../images/smileys/smiley-angel.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-34 {
+    background: url('../images/smileys/smiley-evil.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-35 {
+    background: url('../images/smileys/smiley-twist.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-36 {
+    background: url('../images/smileys/smiley-upset.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-37 {
+    background: url('../images/smileys/smiley-zipper.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-38 {
+    background: url('../images/smileys/thumb.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sc-smiley-39 {
+    background: url('../images/smileys/thumb-up.png') no-repeat center;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specialpage><name>news</name><title><![CDATA[News]]></title><parent>index</parent><tags><![CDATA[news]]></tags><slug>news-%Y%m%d-%H%M</slug><template><![CDATA[news.php]]></template><menu>0</menu><headercomponent/><searchcomponent><![CDATA[<h3 class="search-entry-title">
+  <?php if ($showLanguage) { ?>
+  <span class="search-entry-language"><small><?php get_special_field('language'); ?></small></span>
+  <?php } ?>
+  <a href="<?php get_special_field('link','',false); ?>">
+    <?php get_special_field('title','',false); ?>
+  </a>
+</h3>
+<div class="info">
+<ul class="list-inline">
+<?php if ($showDate) { ?>
+  <li><span class="search-entry-date label label-default"><?php get_special_field_date('pubDate', $dateFormat); ?></span></li>
+<?php } ?>
+  <li><span class="label label-primary">News</span></li>
+</ul>
+<hr/>
+</div>
+<div class="panel panel-default">
+  <div class="panel-body">
+    <div class="search-entry-excerpt"><?php get_special_field_excerpt('content', $numWords); ?></div>
+  </div>
+</div>]]></searchcomponent><searchcomponent_en><![CDATA[<h3 class="search-entry-title">
+  <?php if ($showLanguage) { ?>
+  <span class="search-entry-language"><small><?php get_special_field('language'); ?></small></span>
+  <?php } ?>
+  <a href="<?php get_special_field('link','',false); ?>">
+    <?php get_special_field('title','',false); ?>
+  </a>
+</h3>
+<div class="info">
+<ul class="list-inline">
+<?php if ($showDate) { ?>
+  <li><span class="search-entry-date label label-default"><?php get_special_field_date('pubDate', $dateFormat); ?></span></li>
+<?php } ?>
+  <li><span class="label label-primary">News</span></li>
+</ul>
+<hr/>
+</div>
+<div class="panel panel-default">
+  <div class="panel-body">
+    <div class="search-entry-excerpt"><?php get_special_field_excerpt('content', $numWords); ?></div>
+  </div>
+</div>]]></searchcomponent_en><defaultcontent><![CDATA[]]></defaultcontent><fields/></specialpage>
