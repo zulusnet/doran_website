@@ -160,19 +160,16 @@ ul. Kościuszki 22&lt;br/&gt;
 
 &lt;!-- List group --&gt;
 &lt;ul class=&quot;list-group&quot;&gt;
-&lt;li class=&quot;list-group-item&quot;&gt;Historię powstania DORAN Group&lt;/li&gt;
-&lt;li class=&quot;list-group-item&quot;&gt;Datę założenia A.R. DORAN&lt;/li&gt;
-&lt;li class=&quot;list-group-item&quot;&gt;Cel i misję DORAN Group&lt;/li&gt;
+&lt;li class=&quot;list-group-item&quot;&gt;Historia powstania DORAN Group&lt;/li&gt;
+&lt;li class=&quot;list-group-item&quot;&gt;Data założenia A.R. DORAN&lt;/li&gt;
+&lt;li class=&quot;list-group-item&quot;&gt;Cel i misja DORAN Group&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;]]></value></item><item><title><![CDATA[sidebar-offer]]></title><slug>sidebar-offer</slug><value><![CDATA[&lt;div class=&quot;panel panel-default&quot;&gt;
   &lt;div class=&quot;panel-heading&quot;&gt;Profile działalności&lt;/div&gt;
 &lt;div class=&quot;list-group&quot;&gt;
-&lt;a href=&quot;#&quot; class=&quot;list-group-item active&quot;&gt;
-    Cras justo dio
-    &lt;/a&gt;
-      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Warunki klimatyczne&lt;/a&gt;
-	&lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Morbi leo risus&lt;/a&gt;
-	  &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Porta ac consectetur ac&lt;/a&gt;
-	    &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Vestibulum at eros&lt;/a&gt;
+      &lt;a href=&quot;index.php?id=offer&quot; class=&quot;list-group-item active&quot;&gt;Ogólne&lt;/a&gt;
+      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Produkcja Pelletu&lt;/a&gt;
+      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Plantacje energetyczne&lt;/a&gt;
+      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Elektrociepłownie, ciepłownie, kotłownie na biomasę&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;]]></value></item></channel>
