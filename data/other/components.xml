@@ -172,4 +172,13 @@ ul. Kościuszki 22&lt;br/&gt;
       &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Plantacje energetyczne&lt;/a&gt;
       &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Elektrociepłownie, ciepłownie, kotłownie na biomasę&lt;/a&gt;
 &lt;/div&gt;
+&lt;/div&gt;]]></value></item><item><title><![CDATA[sidebar-projects]]></title><slug>sidebar-projects</slug><value><![CDATA[&lt;div class=&quot;panel panel-default&quot;&gt;
+  &lt;div class=&quot;panel-heading&quot;&gt;Realizacje&lt;/div&gt;
+&lt;div class=&quot;list-group&quot;&gt;
+      &lt;a href=&quot;index.php?id=offer&quot; class=&quot;list-group-item active&quot;&gt;LTD Bioenergy-Vinnytsa (UA) - Zakład produkcji pellet&lt;/a&gt;
+      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Grupa KSG Agro (UA) - Plantacja mateczna miskanta olbrzymiego&lt;/a&gt;
+      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Grupa PEP - Biomasa Energetyczna Wschód (PL) - Zakład produkcji pelletu&lt;/a&gt;
+      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Grupa PEP - Biomasa Energetyczna Południe (PL) - Zakład produkcji pelletu&lt;/a&gt;
+      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Grupa PEP - Biomasa Energetyczna Północ (PL) - Zakład produkcji pelletu&lt;/a&gt;
+&lt;/div&gt;
 &lt;/div&gt;]]></value></item></channel>
