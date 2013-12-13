@@ -1,51 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Fri, 13 Dec 2013 08:55:10 +0100</pubDate><title><![CDATA[Oferta]]></title><url><![CDATA[offer]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Oferta]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;Przez lata podstawowym profilem działalności firmy A.R. DORAN było świadczenie usług związanych z granulacją biomasy agro oraz biomasy poleśnej. Jednakże w związku z coraz to większym zainteresowaniem technologiami OZE, które wynika z konieczności uzyskania, przez Polskę i inne kraje UE, odpowiednich poziomów udziału OZE w bilansie energetycznym danego kraju, także i nasza firma ciągle rozszerza zakres swojej działalności.&lt;/p&gt;
-&lt;p&gt;Poniżej przedstawiamy Państwu naszą ofertę, która to została podzielona na odpowiednie sekcje związane z wytwarzaniem ciepła oraz energii elektrycznej z biomasy.&lt;/p&gt;
-&lt;h3&gt;Produkcja pelletu&lt;/h3&gt;
-&lt;ol&gt;
-	&lt;li&gt;Projektowanie linii technologicznych dla zakładów przetwórstwa biomasy (zakładów produkujących Pellet), w tym:
-		&lt;ul&gt;
-			&lt;li&gt;Pellet z biomasy agro (słoma, siano, trawy, rośliny energetyczne),&lt;/li&gt;
-			&lt;li&gt;Pellet z biomasy drzewnej (trociny, zrębka).&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/li&gt;
-	&lt;li&gt;Projektowanie i nadzór nad budową zakładów przetwórstwa biomasy na paliwo stałe (pellet), w tym:
-		&lt;ul&gt;
-			&lt;li&gt;Opracowanie wytycznych budowlanych,&lt;/li&gt;
-			&lt;li&gt;Projekt technologiczny zakładu,&lt;/li&gt;
-			&lt;li&gt;Nadzór nad montażem maszyn i urządzeń,&lt;/li&gt;
-			&lt;li&gt;Przeprowadzenie rozruchu technologicznego,&lt;/li&gt;
-			&lt;li&gt;Optymalizacja procesu produkcji i związanymi z nim kosztów.&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/li&gt;
-	&lt;li&gt;Modernizacja istniejących zakładów włączając:
-		&lt;ul&gt;
-			&lt;li&gt;Zmiana profilu produkcji z odpadów drzewnych na biomasę agro (trociny -&amp;gt; słoma)&lt;/li&gt;
-			,
-			&lt;li&gt;Zmiana profilu produkcji z biomasy agro na odpady drzewne (słoma -&amp;gt; trociny)&lt;/li&gt;
-			,
-			&lt;li&gt;Automatyzacja i optymalizacja procesu produkcji.&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Plantacje energetyczne&lt;/h3&gt;
-&lt;ol&gt;
-	&lt;li&gt;Specjalistyczne doradztwo w zakresie zakładania oraz późniejszej eksploatacji plantacji roślin energetycznych – Miskanta olbrzymiego, w tym:
-		&lt;ul&gt;
-			&lt;li&gt;Sprzedaż sadzonek Miskanta olbrzymiego,&lt;/li&gt;
-			&lt;li&gt;Doradztwo przy zakładaniu plantacji Miskanta olbrzymiego,&lt;/li&gt;
-			&lt;li&gt;Sprzedaż Maszyn i urządzeń do produkcji sadzonek korzeniowych Miskanta olbrzymiego,&lt;/li&gt;
-			&lt;li&gt;Doradztwo w zakresie eksploatacji oraz pozyskiwania sadzonek korzeniowych.&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Elektrociepłownie, ciepłownie, kotłownie na biomasę&lt;/h3&gt;
-&lt;ol&gt;
-	&lt;li&gt;Doradztwo przy projektach związanych z projektowaniem i budową elektrociepłowni na biomasę, w tym:
-		&lt;ul&gt;
-			&lt;li&gt;Specjalistyczne doradztwo przy modernizacji istniejących kotłowni w celu dostosowania ich do zasilania pelletem,&lt;/li&gt;
-			&lt;li&gt;Doradztwo przy projektach związanych z budową elektrociepłowni na biomasę.&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/li&gt;
-&lt;/ol&gt;
-]]></content><private><![CDATA[]]></private><author><![CDATA[doran]]></author><menuOrder><![CDATA[2]]></menuOrder><creDate>Tue, 03 Dec 2013 14:25:31 +0100</creDate><user><![CDATA[doran]]></user></item>
+<item><pubDate>Fri, 13 Dec 2013 12:25:37 +0100</pubDate><title>Oferta</title><url>offer</url><meta></meta><metad></metad><menu>Oferta</menu><menuStatus>Y</menuStatus><template>template.php</template><parent></parent><content>&amp;lt;p&amp;gt;Przez lata podstawowym profilem działalności firmy A.R. DORAN było świadczenie usług związanych z granulacją biomasy agro oraz biomasy poleśnej. Jednakże w związku z coraz to większym zainteresowaniem technologiami OZE, które wynika z konieczności uzyskania, przez Polskę i inne kraje UE, odpowiednich poziomów udziału OZE w bilansie energetycznym danego kraju, także i nasza firma ciągle rozszerza zakres swojej działalności.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Poniżej przedstawiamy Państwu naszą ofertę, która to została podzielona na odpowiednie sekcje związane z wytwarzaniem ciepła oraz energii elektrycznej z biomasy.&amp;lt;/p&amp;gt;
+&amp;lt;h3&amp;gt;Technologie przetwórstwa biomasy - Produkcja pelletu&amp;lt;/h3&amp;gt;
+&amp;lt;ol&amp;gt;
+	&amp;lt;li&amp;gt;Projektowanie linii technologicznych dla zakładów przetwórstwa biomasy (zakładów produkujących pellet), w tym:
+		&amp;lt;ul&amp;gt;
+			&amp;lt;li&amp;gt;Pellet z biomasy agro (słoma, siano, trawy, rośliny energetyczne),&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Pellet z biomasy drzewnej (trociny, zrębka).&amp;lt;/li&amp;gt;
+		&amp;lt;/ul&amp;gt;
+	&amp;lt;/li&amp;gt;
+	&amp;lt;li&amp;gt;Projektowanie i nadzór nad budową zakładów przetwórstwa biomasy na paliwo stałe (pellet), w tym:
+		&amp;lt;ul&amp;gt;
+			&amp;lt;li&amp;gt;Opracowanie wytycznych budowlanych,&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Projekt technologiczny zakładu,&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Nadzór nad montażem maszyn i urządzeń,&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Przeprowadzenie rozruchu technologicznego,&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Optymalizacja procesu produkcji i związanymi z nim kosztów.&amp;lt;/li&amp;gt;
+		&amp;lt;/ul&amp;gt;
+	&amp;lt;/li&amp;gt;
+	&amp;lt;li&amp;gt;Modernizacja istniejących zakładów włączając:
+		&amp;lt;ul&amp;gt;
+			&amp;lt;li&amp;gt;Zmiana profilu produkcji z odpadów drzewnych na biomasę agro (trociny -&amp;amp;gt; słoma),&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Zmiana profilu produkcji z biomasy agro na odpady drzewne (słoma -&amp;amp;gt; trociny),&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Automatyzacja i optymalizacja procesu produkcji.&amp;lt;/li&amp;gt;
+		&amp;lt;/ul&amp;gt;
+	&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;h3&amp;gt;Plantacje energetyczne&amp;lt;/h3&amp;gt;
+&amp;lt;ol&amp;gt;
+	&amp;lt;li&amp;gt;Specjalistyczne doradztwo w zakresie zakładania oraz późniejszej eksploatacji plantacji roślin energetycznych – Miskanta olbrzymiego, w tym:
+		&amp;lt;ul&amp;gt;
+			&amp;lt;li&amp;gt;Sprzedaż sadzonek Miskanta olbrzymiego,&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Doradztwo przy zakładaniu plantacji Miskanta olbrzymiego,&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Sprzedaż Maszyn i urządzeń do produkcji sadzonek korzeniowych Miskanta olbrzymiego,&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Doradztwo w zakresie eksploatacji oraz pozyskiwania sadzonek korzeniowych.&amp;lt;/li&amp;gt;
+		&amp;lt;/ul&amp;gt;
+	&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;h3&amp;gt;Technologie spalania biomasy - Elektrociepłownie, ciepłownie oraz kotłownie&amp;lt;/h3&amp;gt;
+&amp;lt;ol&amp;gt;
+	&amp;lt;li&amp;gt;Doradztwo przy projektach związanych z projektowaniem i budową elektrociepłowni na biomasę, w tym:
+		&amp;lt;ul&amp;gt;
+			&amp;lt;li&amp;gt;Specjalistyczne doradztwo przy modernizacji istniejących kotłowni w celu dostosowania ich do zasilania pelletem,&amp;lt;/li&amp;gt;
+			&amp;lt;li&amp;gt;Doradztwo przy projektach związanych z budową elektrociepłowni na biomasę.&amp;lt;/li&amp;gt;
+		&amp;lt;/ul&amp;gt;
+	&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+</content><private></private><author>doran</author><creDate>Tue, 03 Dec 2013 14:25:31 +0100</creDate><user>doran</user><menuOrder><![CDATA[3]]></menuOrder></item>

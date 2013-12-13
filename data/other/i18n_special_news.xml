@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<specialpage><name>news</name><title><![CDATA[News]]></title><parent>index</parent><tags><![CDATA[news]]></tags><slug>news-%Y%m%d-%H%M</slug><template><![CDATA[news.php]]></template><menu>0</menu><headercomponent/><searchcomponent><![CDATA[<h3 class="search-entry-title">
+<specialpage><name>news</name><title><![CDATA[News]]></title><parent>index</parent><tags><![CDATA[news]]></tags><slug>news-%Y%m%d-%H%M</slug><template><![CDATA[news.php]]></template><menu>0</menu><headercomponent></headercomponent><searchcomponent><![CDATA[<h3 class="search-entry-title">
   <?php if ($showLanguage) { ?>
   <span class="search-entry-language"><small><?php get_special_field('language'); ?></small></span>
   <?php } ?>
