@@ -8,16 +8,12 @@
 *****************************************************/
 ?>
 <div class="breadcrumbs">
-    
-	<?php
-	/*
+
     <div class="container">
         <span class="home">
-            <i class="fa fa-home fa-lg"></i>
+            <a href="<?php get_site_url(); ?>"><i class="fa fa-home"></i></a>
         </span>
         <?php get_i18n_breadcrumbs(return_page_slug()); ?>
     </div>
-	*/
-	?>
     
 </div>

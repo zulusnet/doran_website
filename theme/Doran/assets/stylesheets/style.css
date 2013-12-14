@@ -155,30 +155,25 @@ a:focus {
 }
 
 .breadcrumbs {
-    font-size: xx-large;
+	padding: 20px 0;
     color: #34495e;
-    text-shadow: 1px 1px #eee;
+	font-size: large;
 }
 
-    .breadcrumbs > div {
-        padding: 20px 0;
-    }
-
-    .breadcrumbs .home {
-        vertical-align: 11%;
+    .breadcrumbs .home a, .breadcrumbs .home a:hover {
+		color: #34495e;
     }
 
     .breadcrumbs .sep {
-        vertical-align: 11%;
+		vertical-align: 6%;
     }
 
     .breadcrumbs span a {
-        font-family: 'Oswald', sans-serif;
         color: #eee;
-        text-shadow: 1px 1px #34495e;
     }
 
     .breadcrumbs span a:hover {
+		color: #fff;
     }
 
 /* Content */
