@@ -31,6 +31,7 @@
             <script src="<?php get_theme_url(); ?>/assets/javascripts/respond.min.js"></script>
         <![endif]-->
         <?php get_i18n_gallery_header('slider'); ?>
+		<?php get_i18n_gallery_header('partners'); ?>
 		<?php get_i18n_header; ?>
     </head>
     <body id="<?php get_page_slug(); ?>">

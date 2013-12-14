@@ -120,14 +120,16 @@ function i18n_gallery_s3slider_header($gallery) {
 function i18n_gallery_s3slider_content($gallery) {
   $id = 's3slider-'.i18n_gallery_id($gallery);
 ?>
+<div class="panel panel-default">
+  <div class="panel-body">
   <div id="<?php echo $id; ?>">
      <ul id="<?php echo $id; ?>Content">
 <?php 
   foreach ($gallery['items'] as $item) { 
 ?>
         <li class="<?php echo $id; ?>Image">
-            <img src="<?php i18n_gallery_image_link($gallery,$item); ?>" />
-            <span><strong><?php echo htmlspecialchars(@$item['_title']); ?></strong><br/><?php echo htmlspecialchars(@$item['_description']); ?></span>
+            <img src="<?php i18n_gallery_image_link($gallery,$item); ?>" alt="<?php echo htmlspecialchars(@$item['_title']); ?>" />
+            <span><?php /* <strong><?php echo htmlspecialchars(@$item['_title']); ?></strong><br/><?php echo htmlspecialchars(@$item['_description']); ?> */ ?></span>
         </li>
 <?php 
   } 
@@ -135,6 +137,8 @@ function i18n_gallery_s3slider_content($gallery) {
         <div class="clear <?php echo $id; ?>Image"></div>
      </ul>
   </div> 
+  </div>
+</div>
   <script type="text/javascript" charset="utf-8">
     $(document).ready(function() {
        $('#<?php echo $id; ?>').s3Slider({
