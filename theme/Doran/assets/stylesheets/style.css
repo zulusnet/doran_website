@@ -12,10 +12,6 @@ a:focus {
   text-decoration: none;
 }
 
-p{
-text-align: justify;
-}
-
 /* Header */
 
 #header {
@@ -203,18 +199,9 @@ text-align: justify;
     color: #86b329;
 }
 
-#partners a{
-width: 100%;
-display: block;
-text-align: center;
-margin: 0 0 20px 0;
-//background-color: black;
+#main p {
+	text-align: justify;
 }
-
-#partners img{
-margin: 0 auto;
-}
-
 
 .main-heading {
     color: #86b329;
@@ -233,6 +220,18 @@ hr.v-separator {
     background-repeat: repeat;
     height: 10px;
     border: 0;
+}
+
+/* Partners */
+
+ul.partners-list {
+	padding: 0;
+	list-style: none;
+	text-align: center;
+}
+
+ul.partners-list li {
+	margin-bottom: 20px;
 }
 
 /* Section */
