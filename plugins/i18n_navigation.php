@@ -153,9 +153,9 @@ function return_i18n_menu_data($slug, $minlevel=0, $maxlevel=0, $show=I18N_SHOW_
   return I18nNavigationFrontend::getMenu($slug, $minlevel, $maxlevel, $show);
 }
 
-function get_i18n_navigation($slug, $minlevel=0, $maxlevel=0, $show=I18N_SHOW_NORMAL, $component=null) {
+function get_i18n_navigation($slug, $minlevel=0, $maxlevel=0, $show=I18N_SHOW_NORMAL, $component=null, $twitterStyle=false) {
   require_once(GSPLUGINPATH.'i18n_navigation/frontend.class.php');
-  I18nNavigationFrontend::outputMenu($slug, $minlevel, $maxlevel, $show, $component);
+  I18nNavigationFrontend::outputMenu($slug, $minlevel, $maxlevel, $show, $component, $twitterStyle);
 }
 
 function return_i18n_breadcrumbs($slug) {

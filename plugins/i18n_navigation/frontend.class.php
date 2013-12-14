@@ -254,16 +254,16 @@ class I18nNavigationFrontend {
     return null;
   }
   
-  public static function outputMenu($slug, $minlevel=0, $maxlevel=0, $show=I18N_SHOW_NORMAL, $component=null) {
+  public static function outputMenu($slug, $minlevel=0, $maxlevel=0, $show=I18N_SHOW_NORMAL, $component=null, $twitterStyle=false) {
     $slug = '' . $slug;
     $menu = self::getMenu($slug, $minlevel, $maxlevel, $show);
     if (isset($menu) && count($menu) > 0) {
-      $html = self::getMenuHTML($menu, ($show & I18N_OUTPUT_TITLE), $component);
+      $html = self::getMenuHTML($menu, ($show & I18N_OUTPUT_TITLE), $component, $twitterStyle);
       echo exec_filter('menuitems',$html);
     }
   }
 
-  private static function getMenuHTML(&$menu, $showTitles=false, $componentname=null) {
+  private static function getMenuHTML(&$menu, $showTitles=false, $componentname=null, $twitterStyle=false) {
     $component = null;
     if ($componentname && file_exists(GSDATAOTHERPATH.'components.xml')) {
       $data = getXML(GSDATAOTHERPATH.'components.xml');
@@ -274,10 +274,10 @@ class I18nNavigationFrontend {
         }
       }
     }
-    return self::getMenuHTMLImpl($menu, $showTitles, $component);
+    return self::getMenuHTMLImpl($menu, $showTitles, $component, $twitterStyle);
   }
 
-  public static function getMenuHTMLImpl(&$menu, $showTitles=false, $component=null) {
+  public static function getMenuHTMLImpl(&$menu, $showTitles=false, $component=null, $twitterStyle=false) {
     $html = '';
     foreach ($menu as &$item) {
       if (!isset($component)) {
@@ -295,14 +295,26 @@ class I18nNavigationFrontend {
         $html .= self::getMenuItem($component, $navitem);
       } else {
         if ($showTitles) {
-          $html .= '<li class="' . $classes . '"><a href="' . $href . '" >' . $title . '</a>';
+          if (!$twitterStyle) {
+			$html .= '<li class="' . $classes . '"><a href="' . $href . '" >' . $title . '</a>';
+		  } else {
+			$html .= '<a class="list-group-item ' . $classes . '" href="' . $href . '" >' . $title . '</a>';
+		  }
         } else {
-          $html .= '<li class="' . $classes . '"><a href="' . $href . '" title="' . htmlspecialchars(html_entity_decode($title, ENT_QUOTES, 'UTF-8')) . '">' . $text . '</a>';
+		  if (!$twitterStyle) {
+			$html .= '<li class="' . $classes . '"><a href="' . $href . '" title="' . htmlspecialchars(html_entity_decode($title, ENT_QUOTES, 'UTF-8')) . '">' . $text . '</a>';
+		  } else {
+			$html .= '<a class="list-group-item ' . $classes . '" href="' . $href . '" title="' . htmlspecialchars(html_entity_decode($title, ENT_QUOTES, 'UTF-8')) . '">' . $text . '</a>';
+		  }
         }
         if (isset($item['children']) && count($item['children']) > 0) {
           $html .= '<ul>' . self::getMenuHTMLImpl($item['children'], $showTitles, $component) . '</ul>';
         }
-        $html .= '</li>' . "\n";
+		if (!$twitterStyle) {
+			$html .= '</li>' . "\n";
+		} else {
+			$html .= "\n";
+		}
       }
     }
     return $html;

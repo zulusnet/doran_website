@@ -3078,6 +3078,9 @@ a.list-group-item:focus {
   text-decoration: none;
   background-color: #eeeeee;
 }
+a.list-group-item.currentpath,
+a.list-group-item.currentpath:hover,
+a.list-group-item.currentpath:focus
 a.list-group-item.active,
 a.list-group-item.active:hover,
 a.list-group-item.active:focus {
