@@ -37,10 +37,8 @@ include('header.inc.php');
 								<h2><?php echo i18n_search_mark(return_page_title()); ?></h2>
 								<div class="label label-primary"><time datetime="<?php get_page_date('Y-m-d'); ?>" pubdate><?php get_page_date('d.m.Y'); ?></time></div>
 								<hr>
-								<div class="panel panel-default">
-									<div class="panel-body">
-										<?php get_page_content(); ?>
-									</div>
+								<div class="well">
+									<?php get_page_content(); ?>
 								</div>
 							</article>
                         </section>

@@ -142,7 +142,7 @@ ul. Kościuszki 22&lt;br/&gt;
 &lt;/div&gt;]]></value></item><item><title><![CDATA[sidebar-offer]]></title><slug>sidebar-offer</slug><value><![CDATA[&lt;div class=&quot;panel panel-default&quot;&gt;
   &lt;div class=&quot;panel-heading&quot;&gt;Profile działalności&lt;/div&gt;
 &lt;div class=&quot;list-group&quot;&gt;
-  &lt;?php get_i18n_navigation(return_page_slug(), 1, 100, true, null, false); ?&gt;
+  &lt;?php get_i18n_navigation(return_page_slug(), 1, 100, true, null, true); ?&gt;
 &lt;/div&gt;
 &lt;/div&gt;]]></value></item><item><title><![CDATA[sidebar-offer-energyCrops]]></title><slug>sidebar-offer-energycrops</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-offer&#039;); ?&gt;
 
