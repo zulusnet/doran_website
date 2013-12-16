@@ -155,9 +155,9 @@ a:focus {
 }
 
 .breadcrumbs {
-	padding: 20px 0;
+	padding: 5px 0;
     color: #34495e;
-	font-size: large;
+	font-size: normal;
 }
 
     .breadcrumbs .home a, .breadcrumbs .home a:hover {
