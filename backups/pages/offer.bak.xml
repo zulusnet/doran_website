@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Mon, 16 Dec 2013 22:39:34 +0100</pubDate><title><![CDATA[Oferta]]></title><url><![CDATA[offer]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Oferta]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;Przez lata podstawowym profilem działalności firmy A.R. DORAN było świadczenie usług związanych z granulacją biomasy agro oraz biomasy poleśnej. Jednakże w związku z coraz to większym zainteresowaniem technologiami OZE, które wynika z konieczności uzyskania, przez Polskę i inne kraje UE, odpowiednich poziomów udziału OZE w bilansie energetycznym danego kraju, także i nasza firma ciągle rozszerza zakres swojej działalności.&lt;/p&gt;
+<item><pubDate>Mon, 16 Dec 2013 22:40:06 +0100</pubDate><creDate>Tue, 03 Dec 2013 14:25:31 +0100</creDate><title><![CDATA[Oferta]]></title><url><![CDATA[offer]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><template><![CDATA[template.php]]></template><content><![CDATA[&lt;p&gt;Przez lata podstawowym profilem działalności firmy A.R. DORAN było świadczenie usług związanych z granulacją biomasy agro oraz biomasy poleśnej. Jednakże w związku z coraz to większym zainteresowaniem technologiami OZE, które wynika z konieczności uzyskania, przez Polskę i inne kraje UE, odpowiednich poziomów udziału OZE w bilansie energetycznym danego kraju, także i nasza firma ciągle rozszerza zakres swojej działalności.&lt;/p&gt;
 &lt;p&gt;Poniżej przedstawiamy Państwu naszą ofertę, która to została podzielona na odpowiednie sekcje związane z wytwarzaniem ciepła oraz energii elektrycznej z biomasy.&lt;/p&gt;
 &lt;h3&gt;Technologie przetwórstwa biomasy - Produkcja pelletu&lt;/h3&gt;
 &lt;ol&gt;
@@ -26,7 +26,7 @@
 		&lt;/ul&gt;
 	&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Więcej informacji na stronie poświęconej temu profilowi działalności - k&lt;a href=&quot;http://localhost/doran_website/index.php?id=offer-pellettechnologies&quot;&gt;liknij tutaj&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Więcej informacji na stronie poświęconej temu profilowi działalności - &lt;a href=&quot;http://localhost/doran_website/index.php?id=offer-pellettechnologies&quot;&gt;kliknij tutaj&lt;/a&gt;.&lt;/p&gt;
 &lt;h3&gt;Plantacje roślin energetycznych&lt;/h3&gt;
 &lt;ol&gt;
 	&lt;li&gt;Specjalistyczne doradztwo w zakresie zakładania oraz późniejszej eksploatacji plantacji roślin energetycznych – Miskanta olbrzymiego, w tym:
@@ -49,4 +49,4 @@
 	&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Więcej informacji można znaleźć klikając &lt;a href=&quot;http://localhost/doran_website/index.php?id=offer-biomassburn&quot;&gt;tutaj&lt;/a&gt;.&lt;/p&gt;
-]]></content><private><![CDATA[]]></private><author><![CDATA[doran]]></author><menuOrder><![CDATA[4]]></menuOrder><creDate>Tue, 03 Dec 2013 14:25:31 +0100</creDate><user><![CDATA[doran]]></user></item>
+]]></content><author><![CDATA[doran]]></author><user><![CDATA[doran]]></user><parent><![CDATA[]]></parent><menuOrder><![CDATA[4]]></menuOrder><menu><![CDATA[]]></menu><menuStatus><![CDATA[Y]]></menuStatus><private><![CDATA[]]></private></item>
