@@ -180,13 +180,13 @@ function i18n_gallery_fancybox_content($gallery, $pic) {
     $showtitles = i18n_gallery_check($gallery, 'thumbtitles', false);
     $pageSize = !isset($thumb) && i18n_gallery_check($gallery,'pagify',false) ? (int) $gallery['pagesize'] : 0;
 ?>
-    <div class="gallery gallery-fancybox gallery-<?php echo $id; ?>">
+    <div class="row gallery gallery-fancybox gallery-<?php echo $id; ?>">
 <?php 
     $i = 0;
     foreach ($gallery['items'] as $item) { 
 ?>
-      <div class="gallery-thumb" <?php if (isset($thumb) && $thumb != $i) echo 'style="display:none"'; ?>>
-        <a href="<?php i18n_gallery_pic_link($gallery,$i); ?>" rel="fancybox-<?php echo $id; ?>" title="<?php echo htmlspecialchars(@$item['_title']); ?>">
+      <div class="col-xs-6 col-md-3 gallery-thumb" <?php if (isset($thumb) && $thumb != $i) echo 'style="display:none"'; ?>>
+        <a class="thumbnail" href="<?php i18n_gallery_pic_link($gallery,$i); ?>" rel="fancybox-<?php echo $id; ?>" title="<?php echo htmlspecialchars(@$item['_title']); ?>">
           <img src="<?php i18n_gallery_thumb_link($gallery,$item); ?>" alt="<?php echo htmlspecialchars(@$item['_title']); ?>"/>
         </a>
 <?php if ($showtitles) { ?>
@@ -197,8 +197,7 @@ function i18n_gallery_fancybox_content($gallery, $pic) {
       $i++; 
     } 
 ?>
-      <div style="clear:both"></div>
-    </div>
+	</div>
     <script type="text/javascript" charset="utf-8">
       $(document).ready(function(){
         var $sel = $("[rel=fancybox-<?php echo $id; ?>]")

@@ -31,9 +31,9 @@
 				    if (opts.wrap) {
 				    	$container = $this.wrap('<div class="pagify-container"></div>').closest('.pagify-container');
 				    }
-				    var nav = '<div class="pagify">';
-				    for (var i=1; i<=numPages; i++) nav += ' <a href="#" class="pagify-'+i+'">'+i+'</a> ';
-				    nav += '</div>';
+				    var nav = '<div class="text-center"><ul class="pagify">';
+				    for (var i=1; i<=numPages; i++) nav += ' <li><a href="#" class="pagify-'+i+'">'+i+'</a></li> ';
+				    nav += '</ul></div>';
 				    switch (opts.location) {
 				   		case "before": $container.prepend(nav); break;
 				   		case "both"  : $container.prepend(nav).append(nav); break;

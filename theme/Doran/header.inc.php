@@ -19,6 +19,7 @@
         <!-- Styles -->
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/custom-bootstrap.css" rel="stylesheet" type="text/css">
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
+		<link href="<?php get_theme_url(); ?>/assets/stylesheets/fancybox.css" rel="stylesheet" type="text/css">
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/style.css" rel="stylesheet" type="text/css">
         
         <!-- Fonts -->
