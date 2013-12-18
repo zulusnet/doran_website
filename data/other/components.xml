@@ -174,10 +174,6 @@ ul. Kościuszki 22&lt;br/&gt;
 &lt;/div&gt;]]></value></item><item><title><![CDATA[sidebar-projects]]></title><slug>sidebar-projects</slug><value><![CDATA[&lt;div class=&quot;panel panel-default&quot;&gt;
   &lt;div class=&quot;panel-heading&quot;&gt;Realizacje&lt;/div&gt;
 &lt;div class=&quot;list-group&quot;&gt;
-      &lt;a href=&quot;#&quot; class=&quot;list-group-item active&quot;&gt;LTD Bioenergy-Vinnytsa (UA) - Zakład produkcji pellet&lt;/a&gt;
-      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Grupa KSG Agro (UA) - Plantacja mateczna miskanta olbrzymiego&lt;/a&gt;
-      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Grupa PEP - Biomasa Energetyczna Wschód (PL) - Zakład produkcji pelletu&lt;/a&gt;
-      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Grupa PEP - Biomasa Energetyczna Południe (PL) - Zakład produkcji pelletu&lt;/a&gt;
-      &lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;Grupa PEP - Biomasa Energetyczna Północ (PL) - Zakład produkcji pelletu&lt;/a&gt;
+       &lt;?php get_i18n_navigation(return_page_slug(), 1, 100, true, null, true); ?&gt;
 &lt;/div&gt;
-&lt;/div&gt;]]></value></item></channel>
+&lt;/div&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbep-pelletplant]]></title><slug>sidebar-projects-gpbep-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbepd-pelletplant]]></title><slug>sidebar-projects-gpbepd-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbew-pelletplant]]></title><slug>sidebar-projects-gpbew-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-ksg-miskant]]></title><slug>sidebar-projects-ksg-miskant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-ltdvinnytsa-pelletplant]]></title><slug>sidebar-projects-ltdvinnytsa-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item></channel>
