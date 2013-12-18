@@ -187,6 +187,8 @@ a:focus {
 
 #main h2 {
     color: #34495e;
+	/*Dodano, by nie zlewał się tekst w dwóch liniach.*/
+	line-height: 130%;
 }
 
 #main h3 {
