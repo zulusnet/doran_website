@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 19 Dec 2013 12:40:25 +0100</pubDate><title><![CDATA[Zakład produkcji Pellet - Grupa PEP Biomasa Energetyczna Północ, Poland]]></title><url><![CDATA[projects-gpbep-pelletplant]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Zakład produkcji Pellet - Grupa PEP Biomasa Energetyczna Północ, Poland]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[projects]]></parent><content><![CDATA[&lt;h3&gt;Wprowadzenie &lt;small&gt;Polish Energy Partners S.A.&lt;/small&gt;&lt;/h3&gt;
+<item><pubDate>Thu, 19 Dec 2013 20:04:37 +0100</pubDate><title><![CDATA[Zakład produkcji Pellet - Grupa PEP Biomasa Energetyczna Północ, Poland]]></title><url><![CDATA[projects-gpbep-pelletplant]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Zakład produkcji Pellet - Grupa PEP Biomasa Energetyczna Północ, Poland]]></menu><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[projects]]></parent><content><![CDATA[&lt;h3&gt;Wprowadzenie &lt;small&gt;Polish Energy Partners S.A.&lt;/small&gt;&lt;/h3&gt;
 &lt;p&gt;Kolejnym, wartym odnotowania sukcesem właściciela DORAN, Pana Andrzeja Rogulskiego, jest pomyślna realizacja projektów związanych z budową trzech fabryk produkcji pelletu dla spółki Polish Energy Partners S.A.&lt;/p&gt;
 &lt;p&gt;Zadania te zostały wykonane w ramach pełnionej, przez Andrzeja Rogulskiego, funkcji Dyrektora ds. produkcji paliw z biomasy w Grupie PEP. Obecnie w ramach Grupy Polish Energy Partners funkcjonują 3 obiekty wytwarzające ekologiczne paliwo jakim jest Pellet Agro:&lt;/p&gt;
 &lt;ul&gt;
@@ -25,5 +25,5 @@
 &lt;p&gt;Poniżej zamieszczamy zdjęcia wykonane w trakcie prac budowlano-montażowych.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3&gt;Galeria &lt;small&gt;Grupa PEP - Biomasa Energetyczna Północ&lt;/small&gt;&lt;/h3&gt;
-&lt;p&gt;(% gallery name=gpbep-pelletplant %)&lt;/p&gt;
+&lt;div class=&quot;well&quot;&gt;(% gallery name=gpbep-pelletplant %)&lt;/div&gt;
 ]]></content><private><![CDATA[]]></private><author><![CDATA[doran]]></author><menuOrder><![CDATA[4]]></menuOrder><creDate>Wed, 18 Dec 2013 11:42:38 +0100</creDate><user><![CDATA[doran]]></user></item>
