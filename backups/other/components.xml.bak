@@ -9,8 +9,8 @@
 &lt;/figure&gt;
 &lt;/div&gt;
 &lt;div class=&quot;info col-md-9 col-xs-10&quot;&gt;
-&lt;p class=&quot;description&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ut pulvinar nibh, quis faucibus neque. Etiam in leo nisl. Etiam.&lt;/p&gt;
-&lt;p class=&quot;name text-right&quot;&gt;Company Name&lt;span class=&quot;quote&quot;&gt;&lt;i class=&quot;fa fa-quote-right fa-3x&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;description&quot;&gt;We are pleased to confirm that the company DORAN has an extensive knowledge and experience in the processing of biomass. With pleasure we would like to work with the DORAN GROUP, in the realization of future projects.&lt;/p&gt;
+&lt;p class=&quot;name text-right&quot;&gt;Daan Sluis - CPM Europe BV&lt;span class=&quot;quote&quot;&gt;&lt;i class=&quot;fa fa-quote-right fa-3x&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/li&gt;
@@ -176,4 +176,4 @@ ul. Kościuszki 22&lt;br/&gt;
 &lt;div class=&quot;list-group&quot;&gt;
        &lt;?php get_i18n_navigation(return_page_slug(), 1, 100, true, null, true); ?&gt;
 &lt;/div&gt;
-&lt;/div&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbep-pelletplant]]></title><slug>sidebar-projects-gpbep-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbepd-pelletplant]]></title><slug>sidebar-projects-gpbepd-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbew-pelletplant]]></title><slug>sidebar-projects-gpbew-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-ksg-miskant]]></title><slug>sidebar-projects-ksg-miskant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item></channel>
+&lt;/div&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbep-pelletplant]]></title><slug>sidebar-projects-gpbep-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbepd-pelletplant]]></title><slug>sidebar-projects-gpbepd-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-gpbew-pelletplant]]></title><slug>sidebar-projects-gpbew-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-ksg-miskant]]></title><slug>sidebar-projects-ksg-miskant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item><item><title><![CDATA[sidebar-projects-ltdvinnytsa-pelletplant]]></title><slug>sidebar-projects-ltdvinnytsa-pelletplant</slug><value><![CDATA[&lt;?php get_component(&#039;sidebar-projects&#039;); ?&gt;]]></value></item></channel>
