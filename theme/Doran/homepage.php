@@ -50,13 +50,14 @@ include('header.inc.php');
                     </div>
                     
                     <div class="col-md-4 hidden-sm hidden-xs">
-						<section class="news">
+			<section class="news">
 							<?php get_i18n_component('homepage-news'); ?>
                         </section>
 						
                         <section class="partners">
                             <?php get_i18n_component('homepage-partners'); ?>
                         </section>
+
                     </div>
                 
                 </div><!--/#main -->
