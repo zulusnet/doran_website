@@ -100,4 +100,7 @@ define('GSDONOTPING', 1);
 # Enable auto meta descriptions from content excerpts when empty
 # define('GSAUTOMETAD',true);
 
+# Activate maps in components
+define ('GMAPINCOMPONENT', 1);
+
 ?>

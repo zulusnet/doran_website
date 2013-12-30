@@ -688,3 +688,11 @@ div.gallery-cycle .gallery-slide {
 #s3slider-partners .s3slider-partnersImage span {
 	display: none;
 }
+
+/* GMAP */
+
+.gmap {
+	background: #fff;
+	padding: 2px;
+	border: 1px solid #86b329;
+}
