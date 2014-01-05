@@ -694,5 +694,12 @@ div.gallery-cycle .gallery-slide {
 .gmap {
 	background: #fff;
 	padding: 2px;
-	border: 1px solid #86b329;
+	border: 1px solid #bdc3c7;
+}
+
+/* Contact form */
+
+.textarea-message {
+	height: 182px !important;
+	resize: none;
 }
