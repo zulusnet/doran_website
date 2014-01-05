@@ -76,7 +76,7 @@ ul. Kościuszki 22&lt;br/&gt;
 &lt;li&gt;miscanthus seedlings&lt;/li&gt;
 &lt;li&gt;pellet&lt;/li&gt;
 &lt;li&gt;straw pellets&lt;/li&gt;
-&lt;/ul&gt;]]></value></item><item><title><![CDATA[footer-nav]]></title><slug>footer-nav</slug><value><![CDATA[&lt;h4 class=&quot;footer-heading&quot;&gt;Mapa Strony&lt;/h4&gt;   
+&lt;/ul&gt;]]></value></item><item><title><![CDATA[footer-nav]]></title><slug>footer-nav</slug><value><![CDATA[&lt;h4 class=&quot;footer-heading&quot;&gt;Menu&lt;/h4&gt;   
 &lt;ul class=&quot;fancy-list&quot;&gt;
 &lt;?php get_i18n_navigation(return_page_slug()); ?&gt;
 &lt;/ul&gt;]]></value></item><item><title><![CDATA[homepage-news]]></title><slug>homepage-news</slug><value><![CDATA[&lt;h4 class=&quot;main-heading&quot;&gt;Bądź na &lt;span class=&quot;rounded&quot;&gt;bieżąco&lt;/span&gt;&lt;/h4&gt;
