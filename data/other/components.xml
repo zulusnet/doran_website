@@ -135,7 +135,16 @@ ul. Kościuszki 22&lt;br/&gt;
 &lt;/ul&gt;]]></value></item><item><title><![CDATA[footer-nav_ru]]></title><slug>footer-nav_ru</slug><value><![CDATA[&lt;h4 class=&quot;footer-heading&quot;&gt;Меню&lt;/h4&gt;   
 &lt;ul class=&quot;fancy-list&quot;&gt;
 &lt;?php get_i18n_navigation(return_page_slug()); ?&gt;
-&lt;/ul&gt;]]></value></item><item><title><![CDATA[homepage-news]]></title><slug>homepage-news</slug><value><![CDATA[&lt;h4 class=&quot;main-heading&quot;&gt;Bądź na &lt;span class=&quot;rounded&quot;&gt;bieżąco&lt;/span&gt;&lt;/h4&gt;
+&lt;/ul&gt;]]></value></item><item><title><![CDATA[google-analitycs]]></title><slug>google-analitycs</slug><value><![CDATA[&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i[&#039;GoogleAnalyticsObject&#039;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#039;script&#039;,&#039;//www.google-analytics.com/analytics.js&#039;,&#039;ga&#039;);
+
+  ga(&#039;create&#039;, &#039;UA-47110507-1&#039;, &#039;dorangroup.com.pl&#039;);
+  ga(&#039;send&#039;, &#039;pageview&#039;);
+
+&lt;/script&gt;]]></value></item><item><title><![CDATA[homepage-news]]></title><slug>homepage-news</slug><value><![CDATA[&lt;h4 class=&quot;main-heading&quot;&gt;Bądź na &lt;span class=&quot;rounded&quot;&gt;bieżąco&lt;/span&gt;&lt;/h4&gt;
 &lt;div class=&quot;panel panel-default&quot;&gt;
 &lt;div class=&quot;panel-heading&quot;&gt;Aktualności&lt;/div&gt;
 &lt;div class=&quot;list-group&quot;&gt;

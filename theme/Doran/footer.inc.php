@@ -70,5 +70,7 @@
             </div><!--/.footer-meta -->
             
         </footer><!--/#footer -->
+	
+	<?php get_component('google-analitycs'); ?>
 </body>
 </html>
