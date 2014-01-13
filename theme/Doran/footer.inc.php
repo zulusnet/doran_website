@@ -60,8 +60,8 @@
                     </div><!--/.footer-keywords -->
                     
                     <div class="footer-copyright text-center">
-                        <p>&copy; 2009 - <?php echo date('Y'); ?> <strong><?php get_site_name(); ?></strong> &middot; Wszelkie prawa zastrzeżone.</p>
-                        <p>Realizacja projektu: <a href="mailto:rafal.osko@gmail.com">Rafał Ośko</a> &middot; Powered by <a href="http://get-simple.info/">GetSimple CMS</a>.</p>
+		      <p>&copy; 2009 - <?php echo date('Y'); ?> <strong><?php get_site_name(); ?></strong> &middot; <?php if ($language == 'pl') echo 'Wszelkie prawa zastrzeżone.'; else if($language == 'ru') echo 'Все права защищены.'; ?></p>
+		      <p><?php if ($language == 'pl') echo 'Realizacja projektu: '; else if($language == 'ru') echo 'Реализация проекта: '; ?><a href="mailto:rafal.osko@gmail.com">Rafał Ośko</a> &middot; Powered by <a href="http://get-simple.info/">GetSimple CMS</a>.</p>
                     </div><!--/.footer-copyright -->
                     
                     <?php get_footer(); ?>
