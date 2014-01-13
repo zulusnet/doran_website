@@ -24,7 +24,7 @@
         
         <!-- Fonts -->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Oswald:400,300&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Oswald:400,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
