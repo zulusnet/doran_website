@@ -19,7 +19,7 @@
         <!-- Styles -->
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/custom-bootstrap.css" rel="stylesheet" type="text/css">
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
-		<link href="<?php get_theme_url(); ?>/assets/stylesheets/fancybox.css" rel="stylesheet" type="text/css">
+	<link href="<?php get_theme_url(); ?>/assets/stylesheets/fancybox.css" rel="stylesheet" type="text/css">
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/style.css" rel="stylesheet" type="text/css">
         
         <!-- Fonts -->
@@ -47,7 +47,8 @@
                         <div class="site-logo">
 							<a href="<?php get_site_url(); ?>" id="logo" >
 								<figure>
-									<img class="img-responsive" src="<?php get_theme_url(); ?>/assets/images/logo.png" alt="<?php get_site_name(); ?>">
+									<img class="img-responsive" src="<?php get_theme_url(); if($language != 'pl') echo '/assets/images/logo_en.png'; 
+									else echo '/assets/images/logo.png'?>" alt="<?php get_site_name(); ?>">
 								</figure>
                             </a>
                         </div><!--/.site-logo -->
