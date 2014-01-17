@@ -12,7 +12,9 @@ include('header.inc.php');
 ?>
 
     <!-- include the breadcrumbs template -->
-    <?php include('breadcrumbs.inc.php'); ?>
+    <div class="hidden-xs">
+		<?php include('breadcrumbs.inc.php'); ?>
+	</div>
 	
         <div id="content">
             <div class="container">

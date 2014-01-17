@@ -12,14 +12,14 @@
     <head>
         <title><?php get_page_clean_title(); ?> &middot; <?php get_site_name(); ?></title>
         
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="robots" content="index, follow">
         <meta charset="utf-8">
         
         <!-- Styles -->
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/custom-bootstrap.css" rel="stylesheet" type="text/css">
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
-	<link href="<?php get_theme_url(); ?>/assets/stylesheets/fancybox.css" rel="stylesheet" type="text/css">
+	    <link href="<?php get_theme_url(); ?>/assets/stylesheets/fancybox.css" rel="stylesheet" type="text/css">
         <link href="<?php get_theme_url(); ?>/assets/stylesheets/style.css" rel="stylesheet" type="text/css">
         
         <!-- Fonts -->

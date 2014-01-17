@@ -19,19 +19,23 @@ include('header.inc.php');
             
                 <div id="thumbs" class="row">
                     
-                    <div class="col-md-4 col-sm-4 col-xs-4">
+                    <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="thumbnail">
                             <?php get_i18n_component('homepage-thumbnail-left'); ?>
                         </div>
                     </div>
+					
+					<hr class="v-separator hidden-lg hidden-md hidden-sm">
                     
-                    <div class="col-md-4 col-sm-4 col-xs-4">
+                    <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="thumbnail">
                             <?php get_i18n_component('homepage-thumbnail-middle'); ?>
                         </div>
                     </div>
+					
+					<hr class="v-separator hidden-lg hidden-md hidden-sm">
                     
-                    <div class="col-md-4 col-sm-4 col-xs-4">
+                    <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="thumbnail">
                             <?php get_i18n_component('homepage-thumbnail-right'); ?>
                         </div>
