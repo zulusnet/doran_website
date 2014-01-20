@@ -252,7 +252,7 @@ hr.v-separator {
         border-width: 1px;
 		padding: 0;
 		overflow: hidden;
-		min-height: 360px;
+		min-height: 400px;
         -webkit-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.22);
         -moz-box-shadow:    0px 2px 5px rgba(0, 0, 0, 0.22);
         box-shadow:         0px 2px 5px rgba(0, 0, 0, 0.22);

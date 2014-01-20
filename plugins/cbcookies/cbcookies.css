@@ -1,0 +1,35 @@
+
+#cbcookies_accept {
+    text-decoration: none;
+}
+
+#cbcookies_more {
+    text-decoration: underline;
+}
+
+#cbcookies-top{
+    background-color: #eee;
+    border-top: 4px solid #bdc3c7;
+    top: 0;
+    font-family: inherit;
+    left: 0;
+    padding-bottom: 13px;
+    padding-top: 10px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    z-index: 9999;
+}
+
+#cbcookies-bottom{
+    background-color: #eee;
+    border-top: 4px solid #bdc3c7;
+    bottom: 0;
+    font-family: inherit;
+    left: 0;
+    padding: 15px 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    z-index: 9999;
+}
