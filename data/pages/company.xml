@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Thu, 19 Dec 2013 14:58:28 +0100</pubDate><creDate>Tue, 03 Dec 2013 17:03:44 +0100</creDate><title>O firmie</title><url>company</url><meta></meta><metad></metad><template>template.php</template><content>&amp;lt;h3&amp;gt;Historia&amp;lt;/h3&amp;gt;
+<item><pubDate>Thu, 19 Dec 2013 14:58:28 +0100</pubDate><creDate>Tue, 03 Dec 2013 17:03:44 +0100</creDate><title>O firmie</title><url>company</url><meta/><metad/><template>template.php</template><content>&amp;lt;h3&amp;gt;Historia&amp;lt;/h3&amp;gt;
 &amp;lt;p&amp;gt;DORAN GROUP spółka z ograniczoną odpowiedzialnością sp.k. jest organizacją, która powstała, na bazie funkcjonującej od 2007 roku firmy: Andrzej Rogulski DORAN. Spółka została założona jako odpowiedź na rosnące zapotrzebowanie na usługi z sektora energii odnawialnej. Jednocześnie dzięki ugruntowanej na rynku pozycji, jaka została wypracowana przez ponad 6 lat działalności, w ramach Andrzej Rogulski DORAN, posiadamy wiedzę i doświadczenie, potrzebną do realizacji najtrudniejszych zadań.&amp;lt;/p&amp;gt;
 &amp;lt;h3&amp;gt;Cel i misja&amp;lt;/h3&amp;gt;
 &amp;lt;p&amp;gt;Naszym celem jest ciągłe rozwijanie podstawowych profilów działalności jakimi są:&amp;lt;/p&amp;gt;
@@ -13,4 +13,4 @@
 &amp;lt;blockquote&amp;gt;
 	&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Naszą misją&amp;lt;/strong&amp;gt; jest dostarczanie naszym Klientom najwyższej jakości usług i produktów z sektora energii odnawialnej, dzięki czemu razem pomagamy środowisku a co za tym idzie całej Planecie.&amp;lt;/p&amp;gt;
 &amp;lt;/blockquote&amp;gt;
-</content><author>doran</author><user>doran</user><parent></parent><menu>O Firmie</menu><menuStatus>Y</menuStatus><private></private><menuOrder><![CDATA[2]]></menuOrder></item>
+</content><author>doran</author><user>doran</user><parent/><menu>O Firmie</menu><menuStatus>Y</menuStatus><private/><menuOrder><![CDATA[3]]></menuOrder></item>

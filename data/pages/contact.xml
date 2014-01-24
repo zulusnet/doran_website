@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Sun, 05 Jan 2014 12:56:47 +0100</pubDate><creDate>Tue, 03 Dec 2013 17:24:48 +0100</creDate><title>Kontakt</title><url>contact</url><meta></meta><metad></metad><template>template.php</template><content>&amp;lt;div class=&amp;quot;well&amp;quot; style=&amp;quot;padding: 0; overflow: hidden;&amp;quot;&amp;gt;(%googlemap:doranbig%)&amp;lt;/div&amp;gt;
+<item><pubDate>Sun, 05 Jan 2014 12:56:47 +0100</pubDate><creDate>Tue, 03 Dec 2013 17:24:48 +0100</creDate><title>Kontakt</title><url>contact</url><meta/><metad/><template>template.php</template><content>&amp;lt;div class=&amp;quot;well&amp;quot; style=&amp;quot;padding: 0; overflow: hidden;&amp;quot;&amp;gt;(%googlemap:doranbig%)&amp;lt;/div&amp;gt;
 &amp;lt;hr /&amp;gt;
 &amp;lt;p&amp;gt;[sc_form]&amp;lt;/p&amp;gt;
-</content><author>rosko</author><user>rosko</user><parent></parent><menu></menu><menuStatus>Y</menuStatus><private></private><menuOrder><![CDATA[5]]></menuOrder></item>
+</content><author>rosko</author><user>rosko</user><parent/><menu/><menuStatus>Y</menuStatus><private/><menuOrder><![CDATA[6]]></menuOrder></item>
