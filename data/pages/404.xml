@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item><pubDate>Mon, 16 Dec 2013 16:22:36 +0100</pubDate><title>Błąd: 404!</title><url>404</url><meta/><metad/><menu>404</menu><menuStatus/><template>full-width.php</template><parent/><content>&amp;lt;div class=&amp;quot;alert alert-danger&amp;quot;&amp;gt;Przykro nam, strona o podanym adresie nie istnieje.&amp;lt;/div&amp;gt;
-</content><private/><author>rosko</author><creDate>Mon, 16 Dec 2013 16:15:51 +0100</creDate><user>rosko</user><menuOrder><![CDATA[7]]></menuOrder></item>
+<item><pubDate>Mon, 16 Dec 2013 16:22:36 +0100</pubDate><creDate>Mon, 16 Dec 2013 16:15:51 +0100</creDate><title><![CDATA[Błąd: 404!]]></title><url><![CDATA[404]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><template><![CDATA[full-width.php]]></template><content><![CDATA[&lt;div class=&quot;alert alert-danger&quot;&gt;Przykro nam, strona o podanym adresie nie istnieje.&lt;/div&gt;
+]]></content><author><![CDATA[rosko]]></author><user><![CDATA[rosko]]></user><parent><![CDATA[]]></parent><menuOrder><![CDATA[8]]></menuOrder><menu><![CDATA[404]]></menu><menuStatus><![CDATA[]]></menuStatus><private><![CDATA[]]></private></item>

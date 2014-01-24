@@ -111,7 +111,7 @@ ul. Kościuszki 22&lt;br/&gt;
 &lt;/div&gt;
 &lt;/div&gt;]]></value></item><item><title><![CDATA[footer-contact_de]]></title><slug>footer-contact_de</slug><value><![CDATA[&lt;h4 class=&quot;footer-heading&quot;&gt;Kontakt&lt;/h4&gt;    
 &lt;address&gt;
-&lt;strong&gt;DORAN GROUP spółka z ograniczoną odpowiedzialnością sp. k.&lt;/strong&gt;&lt;br/&gt;
+&lt;strong&gt;DORAN GROUP beschränkter Haftung, Kommanditgesellschaft&lt;/strong&gt;&lt;br/&gt;
 ul. Kościuszki 22&lt;br/&gt;
 89-400 Sępólno Krajeńskie&lt;br/&gt;
   Polen&lt;br/&gt;
@@ -161,7 +161,19 @@ ul. Kosciuszki 22&lt;br/&gt;
 &lt;p class=&quot;mail-address&quot;&gt;&lt;a href=&quot;#&quot;&gt;info@dorangroup.com.pl&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;]]></value></item><item><title><![CDATA[footer-keywords]]></title><slug>footer-keywords</slug><value><![CDATA[&lt;ul class=&quot;list-inline&quot;&gt;
+&lt;/div&gt;]]></value></item><item><title><![CDATA[footer-copyright]]></title><slug>footer-copyright</slug><value><![CDATA[&lt;p&gt;&amp;copy; 2009 - &lt;?php echo date(&#039;Y&#039;); ?&gt; &lt;strong&gt;
+&lt;?php get_site_name(); ?&gt;&lt;/strong&gt; &amp;middot; Wszelkie prawa zastrzeżone.&lt;/p&gt;
+
+&lt;p&gt;Realizacja projektu: &lt;a href=&quot;mailto:rafal.osko@gmail.com&quot;&gt;Rafał Ośko&lt;/a&gt; &amp;middot; 
+	 Powered by &lt;a href=&quot;http://get-simple.info/&quot;&gt;GetSimple CMS&lt;/a&gt;.&lt;/p&gt;]]></value></item><item><title><![CDATA[footer-copyright_de]]></title><slug>footer-copyright_de</slug><value><![CDATA[&lt;p&gt;&amp;copy; 2009 - &lt;?php echo date(&#039;Y&#039;); ?&gt; &lt;strong&gt;
+&lt;?php get_site_name(); ?&gt;&lt;/strong&gt; &amp;middot; Alle Rechte vorbehalten.&lt;/p&gt;
+
+&lt;p&gt;Durchführung des Projekts: &lt;a href=&quot;mailto:rafal.osko@gmail.com&quot;&gt;Rafał Ośko&lt;/a&gt; &amp;middot; 
+	 Powered by &lt;a href=&quot;http://get-simple.info/&quot;&gt;GetSimple CMS&lt;/a&gt;.&lt;/p&gt;]]></value></item><item><title><![CDATA[footer-copyright_ru]]></title><slug>footer-copyright_ru</slug><value><![CDATA[&lt;p&gt;&amp;copy; 2009 - &lt;?php echo date(&#039;Y&#039;); ?&gt; &lt;strong&gt;
+&lt;?php get_site_name(); ?&gt;&lt;/strong&gt; &amp;middot; Все права защищены.&lt;/p&gt;
+
+&lt;p&gt;Реализация проекта: &lt;a href=&quot;mailto:rafal.osko@gmail.com&quot;&gt;Rafał Ośko&lt;/a&gt; &amp;middot; 
+	 Powered by &lt;a href=&quot;http://get-simple.info/&quot;&gt;GetSimple CMS&lt;/a&gt;.&lt;/p&gt;]]></value></item><item><title><![CDATA[footer-keywords]]></title><slug>footer-keywords</slug><value><![CDATA[&lt;ul class=&quot;list-inline&quot;&gt;
 &lt;li&gt;miskant olbrzymi&lt;/li&gt;
 &lt;li&gt;sadzonki miskanta olbrzymiego&lt;/li&gt;
 &lt;li&gt;miskant olbrzymi sadzonki&lt;/li&gt; 
@@ -418,7 +430,7 @@ ul. Kosciuszki 22&lt;br/&gt;
 
 &lt;!-- List group --&gt;
 &lt;ul class=&quot;list-group&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;&lt;strong&gt;DORAN GROUP spółka z ograniczoną odpowiedzialnością sp.k.&lt;/strong&gt;&lt;br/&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;&lt;strong&gt;DORAN GROUP beschränkter Haftung, Kommanditgesellschaft&lt;/strong&gt;&lt;br/&gt;
   ul. Kosciuszki 22&lt;br/&gt;
     89-400 Sepolno Krajenskie&lt;br/&gt;
     Polen&lt;/li&gt;
