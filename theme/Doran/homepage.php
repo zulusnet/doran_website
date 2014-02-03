@@ -12,7 +12,9 @@ include('header.inc.php');
 ?>
 
         <!-- include the slider template -->
-		<?php include('slider.inc.php'); ?>
+		<div class="hidden-xs">
+			<?php include('slider.inc.php'); ?>
+		</div>
         
         <div id="content">
             <div class="container">

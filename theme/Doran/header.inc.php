@@ -40,20 +40,17 @@
     <body id="<?php get_page_slug(); ?>">
 
         <!-- site header -->
-        <header id="header">
+        <header id="header" role="banner">
             <div class="container">
                 
                 <div class="row">
                     
                     <div class="col-md-3 col-xs-12">
-                        <div class="site-logo">
-							<a href="<?php get_site_url(); ?>" id="logo" >
-								<figure>
-									<img class="img-responsive" src="<?php get_theme_url(); if($language != 'pl') echo '/assets/images/logo_en.png'; 
-									else echo '/assets/images/logo.png'?>" alt="<?php get_site_name(); ?>">
-								</figure>
+                        <div id="logo" class="logo">
+							<a href="<?php get_site_url(); ?>" title="<?php get_site_name(); ?>" rel="home">
+								<img class="img-responsive" src="<?php get_theme_url(); if($language != 'pl') echo '/assets/images/logo_en.png'; else echo '/assets/images/logo.png'?>" alt="<?php get_site_name(); ?>">
                             </a>
-                        </div><!--/.site-logo -->
+                        </div><!--/.logo -->
                     </div>
                 
                     <div class="col-md-3 col-md-offset-6 col-xs-12">
