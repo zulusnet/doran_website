@@ -563,13 +563,14 @@ span.mark {
 }
 
 .bx-wrapper .bx-pager.bx-default-pager a {
-	background: #666;
+	background: #34495e;
 	text-indent: -9999px;
 	display: block;
 	width: 10px;
 	height: 10px;
 	margin: 0 5px;
 	outline: 0;
+	border: 1px solid #fff;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
@@ -577,36 +578,43 @@ span.mark {
 
 .bx-wrapper .bx-pager.bx-default-pager a:hover,
 .bx-wrapper .bx-pager.bx-default-pager a.active {
-	background: #000;
+	background: #86b329;
 }
 
 /* DIRECTION CONTROLS (NEXT / PREV) */
 
 .bx-wrapper .bx-prev {
 	left: 10px;
-	background: url(../../../../plugins/i18n_gallery/images/bxslider/controls.png) no-repeat 0 -32px;
+	background-image: url(../../../../plugins/i18n_gallery/images/bxslider/prev.png);
+	background-repeat: no-repeat;
+	background-position: left center; 
 }
 
 .bx-wrapper .bx-next {
 	right: 10px;
-	background: url(../../../../plugins/i18n_gallery/images/bxslider/controls.png) no-repeat -43px -32px;
+	background: url(../../../../plugins/i18n_gallery/images/bxslider/next.png);
+	background-repeat: no-repeat;
+	background-position: right center; 
 }
 
 .bx-wrapper .bx-prev:hover {
-	background-position: 0 0;
+	background: url(../../../../plugins/i18n_gallery/images/bxslider/prev-hover.png);
+	background-repeat: no-repeat;
+	background-position: left center; 
 }
 
 .bx-wrapper .bx-next:hover {
-	background-position: -43px 0;
+	background: url(../../../../plugins/i18n_gallery/images/bxslider/next-hover.png);
+	background-repeat: no-repeat;
+	background-position: right center; 
 }
 
 .bx-wrapper .bx-controls-direction a {
 	position: absolute;
-	top: 50%;
-	margin-top: -16px;
+	top: 0;
 	outline: 0;
-	width: 32px;
-	height: 32px;
+	width: 25%;
+	height: 100%;
 	text-indent: -9999px;
 	z-index: 9999;
 }
