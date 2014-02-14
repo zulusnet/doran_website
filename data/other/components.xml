@@ -293,7 +293,7 @@ ul. Kosciuszki 22&lt;br/&gt;
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,&#039;script&#039;,&#039;//www.google-analytics.com/analytics.js&#039;,&#039;ga&#039;);
 
-  ga(&#039;create&#039;, &#039;UA-47110507-1&#039;, &#039;dorangroup.com.pl&#039;);
+  ga(&#039;create&#039;, &#039;UA-47110507-1&#039;, &#039;dorangroup.pl&#039;);
   ga(&#039;send&#039;, &#039;pageview&#039;);
 
 &lt;/script&gt;]]></value></item><item><title><![CDATA[homepage-news]]></title><slug>homepage-news</slug><value><![CDATA[&lt;h4 class=&quot;main-heading&quot;&gt;Bądź na &lt;span class=&quot;rounded&quot;&gt;bieżąco&lt;/span&gt;&lt;/h4&gt;
