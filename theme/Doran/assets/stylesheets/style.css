@@ -19,7 +19,7 @@ a:focus {
     background-image: url(../images/noise-grid.png);
     background-repeat: repeat;
     border-bottom: 3px solid #222326;
-    padding: 34px 0;
+    padding: 33px 0;
 }
 
     #header .search .form-control {

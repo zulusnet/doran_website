@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item><pubDate>Mon, 20 Jan 2014 13:41:16 +0100</pubDate><creDate>Mon, 20 Jan 2014 13:41:16 +0100</creDate><title><![CDATA[Suche]]></title><url><![CDATA[search_de]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menuOrder><![CDATA[0]]></menuOrder><template><![CDATA[template.php]]></template><content><![CDATA[&lt;p&gt;(% searchform addtags=_special_news %)&lt;/p&gt;
 &lt;p&gt;(% searchresults addtags=_special_news %)&lt;/p&gt;
-]]></content><author><![CDATA[doran]]></author><parent><![CDATA[]]></parent><user><![CDATA[doran]]></user><menu><![CDATA[]]></menu><menuStatus><![CDATA[]]></menuStatus><private><![CDATA[Y]]></private></item>
+]]></content><author><![CDATA[doran]]></author><parent><![CDATA[]]></parent><user><![CDATA[doran]]></user><menu><![CDATA[]]></menu><menuStatus><![CDATA[]]></menuStatus><private><![CDATA[]]></private></item>
